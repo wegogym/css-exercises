@@ -1,0 +1,14 @@
+.E1{
+background-color:black;
+color:white;
+}
+
+.E2{
+background-color:yellow;
+}
+
+.E1,.E2{
+font-size:28px;
+fonts:Helvetica,Times New Roman;
+
+}
